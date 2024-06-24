@@ -1,0 +1,11 @@
+import rebound
+import numpy as np
+
+sa = rebound.Simulationarchive("trappist_1g.bin") # change file name
+
+print("Number of snapshots: %d" % len(sa))
+print("Time of first and last snapshot: %.1f, %.1f" % (sa.tmin, sa.tmax))
+
+ps = sa[10].particles
+os = sa[10].orbits(primary=ps[0])
+print(os)
