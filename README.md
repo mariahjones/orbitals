@@ -1,5 +1,5 @@
-# Can near-resonant exoplanets have Trojan and horseshoe companions?
-### SETI summer 2024 internship data archive
+# Investigating the Stability of Trojan and Horseshoe Co-Orbitals in Exoplanetary Systems
+### SETI 2024 summer internship -- data archive
 
 #### Mariah Jones, Matija Cuk
 
