@@ -1,4 +1,4 @@
-# Investigating the Stability of Trojan and Horseshoe Co-Orbitals in Exoplanetary Systems
+# Investigating the stability of trojan and horseshoe co-orbitals in extrasolar multi-planet systems
 
 #### Mariah Jones<sup>1,2</sup>, Matija Cuk<sup>1</sup>
  _SETI Institute<sup>1</sup>, Vassar College<sup>2</sup>_
